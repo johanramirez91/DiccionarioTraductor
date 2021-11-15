@@ -1,0 +1,4 @@
+hola => hello
+perro => dog
+gato => cat
+raton => mouse
